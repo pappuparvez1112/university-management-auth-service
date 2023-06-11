@@ -1,0 +1,2 @@
+Fri Jun 09 2023 21:20:19 [PH] error:  😢 Failed to connect database connect ETIMEDOUT 18.235.104.7:27017
+Fri Jun 09 2023 21:25:10 [PH] error:  😢 Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.

@@ -1,0 +1,12 @@
+Sun Jun 11 2023 16:19:48 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

@@ -1,0 +1,25 @@
+Mon Jun 12 2023 1:0:10 [PH] error:  😢 Failed to connect database connect ETIMEDOUT 18.235.104.7:27017
+Mon Jun 12 2023 1:0:14 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Mon Jun 12 2023 1:5:9 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
