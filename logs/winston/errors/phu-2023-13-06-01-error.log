@@ -1,0 +1,15 @@
+Tue Jun 13 2023 1:0:44 [PH] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 13 2023 1:2:49 [PH] error:  ✈ globalErrorHandler ~  Academic semester is already exist
+Tue Jun 13 2023 1:23:57 [PH] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 13 2023 1:26:44 [PH] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 13 2023 1:27:41 [PH] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 13 2023 1:28:31 [PH] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 13 2023 1:30:0 [PH] error:  ✈ globalErrorHandler ~  Academic semester is already exist
+Tue Jun 13 2023 1:30:7 [PH] error:  ✈ globalErrorHandler ~  Invalid Semester Code
+Tue Jun 13 2023 1:48:42 [PH] error: listen EADDRINUSE: address already in use :::5500
+Tue Jun 13 2023 1:52:1 [PH] error: listen EADDRINUSE: address already in use :::5500
+Tue Jun 13 2023 1:52:26 [PH] error: listen EADDRINUSE: address already in use :::5500
+Tue Jun 13 2023 1:54:13 [PH] error: listen EADDRINUSE: address already in use :::5500
+Tue Jun 13 2023 1:54:28 [PH] error: listen EADDRINUSE: address already in use :::5500
+Tue Jun 13 2023 1:55:0 [PH] error:  ✈ globalErrorHandler ~  Invalid Semester Code
+Tue Jun 13 2023 1:55:12 [PH] error:  ✈ globalErrorHandler ~  Academic semester is already exist

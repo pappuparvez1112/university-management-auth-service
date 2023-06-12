@@ -1,7 +1,7 @@
-import express, { Application } from 'express';
 import cors from 'cors';
+import express, { Application } from 'express';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
-import { UserRoutes } from './app/modules/user/user.route';
+import routes from './app/routes';
 // import ApiError from './errors/ApiError'
 
 const app: Application = express();
@@ -14,7 +14,8 @@ app.use(express.urlencoded({ extended: true }));
 
 //Application routes
 
-app.use('/api/v1/users/', UserRoutes);
+app.use('/api/v1/', routes);
+// app.use('/api/v1/academic-semester', SemesterRoutes);
 
 // //FOR TESTING ROUTE
 // app.get('/', async (req: Request, res: Response, next: NextFunction) => {
