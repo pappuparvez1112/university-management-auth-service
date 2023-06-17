@@ -1,0 +1,11 @@
+Fri Jun 16 2023 4:5:14 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:6:51 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:7:15 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:9:14 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:9:16 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:16:43 [PH] error:  ✈ globalErrorHandler ~  $regex has to be a string
+Fri Jun 16 2023 4:20:1 [PH] error:  😢 Failed to connect database connect ETIMEDOUT 54.83.79.186:27017
+Fri Jun 16 2023 4:20:17 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.find()` buffering timed out after 10000ms
+Fri Jun 16 2023 4:20:39 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.find()` buffering timed out after 10000ms
+Fri Jun 16 2023 4:22:13 [PH] error:  ✈ globalErrorHandler ~  $and/$or/$nor must be a nonempty array
+Fri Jun 16 2023 4:22:29 [PH] error:  ✈ globalErrorHandler ~  $and/$or/$nor must be a nonempty array

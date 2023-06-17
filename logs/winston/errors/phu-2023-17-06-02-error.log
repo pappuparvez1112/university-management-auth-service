@@ -1,0 +1,1 @@
+Sat Jun 17 2023 2:45:58 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "648c3ce975b67e6849ff612" (type string) at path "_id" for model "AcademicSemester"
