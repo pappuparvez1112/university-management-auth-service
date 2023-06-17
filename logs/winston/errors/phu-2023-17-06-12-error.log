@@ -1,0 +1,105 @@
+Sat Jun 17 2023 12:21:35 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jun 17 2023 12:21:51 [PH] error:  ✈ globalErrorHandler ~  Invalid Semester Code
+Sat Jun 17 2023 12:22:47 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jun 17 2023 12:23:0 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jun 17 2023 12:23:8 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jun 17 2023 12:23:36 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]
+Sat Jun 17 2023 12:24:39 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]
+Sat Jun 17 2023 12:24:44 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jun 17 2023 12:25:14 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]
+Sat Jun 17 2023 12:25:46 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "received": "Winter",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'Winter'"
+  }
+]
+Sat Jun 17 2023 12:26:6 [PH] error:  ✈ globalErrorHandler ~  Invalid Semester Code
+Sat Jun 17 2023 12:46:7 [PH] error:  😢 Failed to connect database connect ETIMEDOUT 54.83.79.186:27017
+Sat Jun 17 2023 12:46:30 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.findOneAndUpdate()` buffering timed out after 10000ms
+Sat Jun 17 2023 12:46:41 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.findOne()` buffering timed out after 10000ms
+Sat Jun 17 2023 12:46:46 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.findOne()` buffering timed out after 10000ms
+Sat Jun 17 2023 12:46:52 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.find()` buffering timed out after 10000ms
+Sat Jun 17 2023 12:47:7 [PH] error:  ✈ globalErrorHandler ~  Operation `academicsemesters.find()` buffering timed out after 10000ms
