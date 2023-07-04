@@ -1,0 +1,5 @@
+Mon Jul 03 2023 12:1:23 [PH] error:  ✈ globalErrorHandler ~  Cannot set properties of undefined (setting 'id')
+Mon Jul 03 2023 12:12:14 [PH] error: Operation `users.findOne()` buffering timed out after 10000ms
+Mon Jul 03 2023 12:30:5 [PH] error: Operation `users.findOne()` buffering timed out after 10000ms
+Mon Jul 03 2023 12:30:23 [PH] error: Operation `users.findOne()` buffering timed out after 10000ms
+Mon Jul 03 2023 12:31:34 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.users index: id_1 dup key: { id: "440100002" }
