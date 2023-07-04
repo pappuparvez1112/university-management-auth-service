@@ -1,0 +1,33 @@
+Tue Jul 04 2023 1:7:28 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
+Tue Jul 04 2023 1:11:21 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
+Tue Jul 04 2023 1:11:57 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
+Tue Jul 04 2023 1:12:28 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
+Tue Jul 04 2023 1:28:36 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
+Tue Jul 04 2023 1:29:51 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "number",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected string, received number"
+  }
+]
+Tue Jul 04 2023 1:30:12 [PH] error:  ✈ globalErrorHandler ~  Academic semester is already exist
+Tue Jul 04 2023 1:31:15 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.academicfaculties index: title_1 dup key: { title: "faculty of administration " }
+Tue Jul 04 2023 1:32:30 [PH] error:  ✈ globalErrorHandler ~  Unexpected token } in JSON at position 47
+Tue Jul 04 2023 1:32:37 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "academicFaculty"
+    ],
+    "message": "Academic Faculty is required"
+  }
+]
+Tue Jul 04 2023 1:33:17 [PH] error:  ✈ globalErrorHandler ~  Student validation failed: academicSemester: Path `academicSemester` is required., academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required., localGuardian: Path `localGuardian` is required., guardian: Path `guardian` is required., permanentAddress: Path `permanentAddress` is required., presentAddress: Path `presentAddress` is required., emergencyContactNo: Path `emergencyContactNo` is required., contactNo: Path `contactNo` is required., email: Path `email` is required., name: Path `name` is required., id: Path `id` is required.
