@@ -1,0 +1,8 @@
+Wed Jul 05 2023 11:23:27 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 11:25:6 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 11:25:29 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 11:30:26 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "{ id: '260100001' }" (type Object) at path "_id" for model "Student"
+Wed Jul 05 2023 11:33:21 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "{ id: '260100001' }" (type Object) at path "_id" for model "Student"
+Wed Jul 05 2023 11:34:1 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "{ id: '260100001' }" (type Object) at path "_id" for model "Student"
+Wed Jul 05 2023 11:35:10 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 11:35:45 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
