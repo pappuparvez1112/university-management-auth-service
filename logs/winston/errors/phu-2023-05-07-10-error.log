@@ -1,0 +1,10 @@
+Wed Jul 05 2023 10:12:39 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "students" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:14:45 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "students" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:17:17 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:18:6 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:18:24 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:19:14 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:19:22 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:19:34 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "260100001" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:22:40 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "220200003" (type string) at path "_id" for model "Student"
+Wed Jul 05 2023 10:36:32 [PH] error:  ✈ globalErrorHandler ~  Invalid sort value: { 220200003: dsc }

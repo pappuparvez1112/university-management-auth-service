@@ -1,0 +1,36 @@
+Wed Jul 05 2023 14:4:21 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "faculty"
+    ],
+    "message": "Required"
+  }
+]
+Wed Jul 05 2023 14:10:17 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "faculty"
+    ],
+    "message": "Required"
+  }
+]
+Wed Jul 05 2023 14:12:45 [PH] error:  ✈ globalErrorHandler ~  User validation failed: password: Path `password` is required.
+Wed Jul 05 2023 14:13:53 [PH] error:  ✈ globalErrorHandler ~  User validation failed: password: Path `password` is required.
+Wed Jul 05 2023 14:14:4 [PH] error:  ✈ globalErrorHandler ~  Cannot populate path `faculty` because it is not in your schema. Set the `strictPopulate` option to false to override.
+Wed Jul 05 2023 14:15:20 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:20:10 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:23:36 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:24:12 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:24:29 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:25:58 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:44:2 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:44:52 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
+Wed Jul 05 2023 14:47:4 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00001" }
