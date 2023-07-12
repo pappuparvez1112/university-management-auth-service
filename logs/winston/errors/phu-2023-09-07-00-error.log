@@ -1,0 +1,5 @@
+Sun Jul 09 2023 0:6:15 [PH] error:  ✈ globalErrorHandler ~  Cast to ObjectId failed for value "220200001" (type string) at path "_id" for model "Student"
+Sun Jul 09 2023 0:24:56 [PH] error: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+Sun Jul 09 2023 0:26:32 [PH] error:  ✈ globalErrorHandler ~  User does not exist
+Sun Jul 09 2023 0:26:40 [PH] error:  ✈ globalErrorHandler ~  User does not exist
+Sun Jul 09 2023 0:26:53 [PH] error:  ✈ globalErrorHandler ~  User does not exist

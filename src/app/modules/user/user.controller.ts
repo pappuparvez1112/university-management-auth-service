@@ -7,6 +7,7 @@ import { UserService } from './user.service';
 
 const createStudent: RequestHandler = catchAsync(
   async (req: Request, res: Response) => {
+    // console.log(req.cookies, 'cookies');
     const { student, ...userData } = req.body;
     // console.log(req.body);
     const result = await UserService.createStudent(student, userData);
@@ -46,8 +47,20 @@ const createAdmin: RequestHandler = catchAsync(
   },
 );
 
+const getAllUsers = catchAsync(async (req: Request, res: Response) => {
+  const result = await UserService.getAllUsers();
+  sendResponse<IUser[]>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'User retrieved successfully',
+
+    data: result,
+  });
+});
+
 export const UserController = {
   createStudent,
   createFaculy,
   createAdmin,
+  getAllUsers,
 };

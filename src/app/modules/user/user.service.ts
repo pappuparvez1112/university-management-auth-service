@@ -34,6 +34,13 @@ const createStudent = async (
     user.password = config.default_student_pass as string;
   }
 
+  //hash password
+
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds),
+  // );
+
   //set role
   user.role = 'student';
 
@@ -215,8 +222,14 @@ const createAdmin = async (
   return newUserAllData;
 };
 
+const getAllUsers = async (): Promise<IUser[]> => {
+  const users = await User.find();
+  return users;
+};
+
 export const UserService = {
   createStudent,
   createFaculty,
   createAdmin,
+  getAllUsers,
 };

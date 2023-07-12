@@ -1,0 +1,28 @@
+Sat Jul 08 2023 19:37:27 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "cookies"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jul 08 2023 19:37:28 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "cookies"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jul 08 2023 19:42:54 [PH] error:  ✈ globalErrorHandler ~  Cannot destructure property 'refreshToken' of 'req.cookies' as it is undefined.
+Sat Jul 08 2023 19:44:10 [PH] error:  ✈ globalErrorHandler ~  Invalid Refresh Token
+Sat Jul 08 2023 19:44:37 [PH] error:  ✈ globalErrorHandler ~  Cannot destructure property 'refreshToken' of 'req.cookies' as it is undefined.
+Sat Jul 08 2023 19:50:50 [PH] error:  ✈ globalErrorHandler ~  Cannot destructure property 'refreshToken' of 'req.cookies' as it is undefined.
+Sat Jul 08 2023 19:54:13 [PH] error:  ✈ globalErrorHandler ~  Cannot destructure property 'refreshToken' of 'req.cookies' as it is undefined.
+Sat Jul 08 2023 19:59:55 [PH] error:  ✈ globalErrorHandler ~  Cannot destructure property 'refreshToken' of 'req.cookies' as it is undefined.
