@@ -1,0 +1,4 @@
+Fri Jul 07 2023 20:28:27 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00006" }
+Fri Jul 07 2023 20:28:37 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00006" }
+Fri Jul 07 2023 20:28:54 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00006" }
+Fri Jul 07 2023 20:29:38 [PH] error:  ✈ globalErrorHandler ~  E11000 duplicate key error collection: university-management.faculties index: id_1 dup key: { id: "F-00006" }

@@ -1,4 +1,3 @@
-import bcrypt from 'bcrypt';
 import httpStatus from 'http-status';
 import mongoose from 'mongoose';
 import config from '../../../config/index';
@@ -37,10 +36,10 @@ const createStudent = async (
 
   //hash password
 
-  user.password = await bcrypt.hash(
-    user.password,
-    Number(config.bcrypt_salt_rounds),
-  );
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds),
+  // );
 
   //set role
   user.role = 'student';
@@ -223,8 +222,14 @@ const createAdmin = async (
   return newUserAllData;
 };
 
+const getAllUsers = async (): Promise<IUser[]> => {
+  const users = await User.find();
+  return users;
+};
+
 export const UserService = {
   createStudent,
   createFaculty,
   createAdmin,
+  getAllUsers,
 };

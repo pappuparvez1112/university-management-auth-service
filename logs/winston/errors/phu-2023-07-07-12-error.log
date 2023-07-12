@@ -1,0 +1,12 @@
+Fri Jul 07 2023 12:1:54 [PH] error:  ✈ globalErrorHandler ~  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "password"
+    ],
+    "message": "Password is required"
+  }
+]
